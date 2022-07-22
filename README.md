@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yisuslalala
 - 👀 I’m interested in improve my coding skills
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, React.js and Kotlin
 
 <!---
 Yisuslalala/Yisuslalala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
