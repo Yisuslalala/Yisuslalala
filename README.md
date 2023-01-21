@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yisuslalala
 - 👀 I’m interested in improve my coding skills
-- 🌱 I’m currently learning Django, React.js and Kotlin
+- 🌱 I’m currently learning FastAPI and React.js
 
 <!---
 Yisuslalala/Yisuslalala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
