@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yisuslalala
-- 👀 I’m interested in improve my coding skills
+- 👋 Hi, I’m @Yisuslalala, but you can call me Lalo
+- 👀 I’m improving my code-problem solution skills
 - 🌱 I’m currently learning FastAPI and React.js
 
 <!---
