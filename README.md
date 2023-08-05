@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yisuslalala, but you can call me Lalo
 - 👀 I’m improving my code-problem solution skills
-- 🌱 I’m currently learning FastAPI and React.js
+- 🌱 I’m currently learning FastAPI, React.js and Express.js
 - 🌱 If you want to contact me send a message: wardodev1.00@gmail.com
 
 <!---
